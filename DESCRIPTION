@@ -1,9 +1,10 @@
-Package: multiple
+Package: Multiple
 Title: My First Fackage
 Version: 0.0-0.9000
-Authors@R: person("Vincent", "Vallée", email = "vincent.vallee@ifremer.fr", role = c("VincentVallée", "VincentVallée"))
+Authors@R: person("Vincent", "Vallee", email = "vincent.vallee@ifremer.fr", role = c("Vincent Vallee", "Vincent Vallee"))
 Description: What the package does.
 Depends: R (>= 3.4.3)
 License: What license is it under?
 Encoding: UTF-8
 LazyData: true
+RoxygenNote: 6.0.1
